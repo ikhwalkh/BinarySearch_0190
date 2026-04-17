@@ -21,7 +21,7 @@ void input()
         }
         else
         {
-            cout << "\n[i] Jumlah elemen tidak boleh lebih dari 10 Silakan coba lagi. \n";
+            cout << "\n[i] Jumlah elemen tidak boleh lebih dari 10 Silakan coba lagi.\n";
         }
     }
 }
